@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0b0812"/>
+  <g transform="skewX(-8)" transform-origin="32 32">
+    <g fill="#c211b8">
+      <polygon points="40,14 58,8 42,20"/>
+      <polygon points="42,23 62,21 43,28"/>
+      <polygon points="26,36 8,34 25,42"/>
+      <polygon points="24,45 4,47 23,51"/>
+    </g>
+    <text x="14" y="33" font-family="Khand, Arial Narrow, sans-serif" font-weight="700" font-size="26" fill="#f4f0f7">R</text>
+    <text x="28" y="55" font-family="Khand, Arial Narrow, sans-serif" font-weight="700" font-size="26" fill="#c211b8">I</text>
+  </g>
+</svg>

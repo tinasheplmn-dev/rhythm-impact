@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- Eigen set voor Rhythm Impact. Lijn 1,9, ronde kapjes, getekend op een 24-raster.
+       Basisvormen afgeleid van Lucide/Tabler (MIT) en hertekend in de stijl van het merk. -->
+
+  <!-- twee drumstokken gekruist, met de ronde tip -->
+  <symbol id="i-stokken" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 20 17.2 5.4"/><path d="M19 20 6.8 5.4"/>
+    <circle cx="18" cy="4.4" r="1.6" fill="currentColor" stroke="none"/>
+    <circle cx="6" cy="4.4" r="1.6" fill="currentColor" stroke="none"/>
+  </symbol>
+
+  <!-- djembé: vel bovenop, kelk, voet -->
+  <symbol id="i-djembe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="12" cy="5.5" rx="6.5" ry="2.2"/>
+    <path d="M5.5 5.5c0 4 2.6 5.2 3.3 7.6.6 2.2-.9 4.6-1.2 6.4M18.5 5.5c0 4-2.6 5.2-3.3 7.6-.6 2.2.9 4.6 1.2 6.4"/>
+    <path d="M7.6 19.6h8.8"/><path d="M7.4 9.8h9.2"/>
+  </symbol>
+
+  <!-- melodisch slagwerk: staven van een marimba plus een mallet -->
+  <symbol id="i-mallet" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="13" width="3.6" height="8" rx=".8"/>
+    <rect x="8.4" y="13" width="3.6" height="6.5" rx=".8"/>
+    <rect x="13.8" y="13" width="3.6" height="5" rx=".8"/>
+    <path d="M9 10 17.6 4.2"/>
+    <circle cx="19.2" cy="3.6" r="2" fill="currentColor" stroke="none"/>
+  </symbol>
+
+  <!-- kleine trom met een stok erop: de eerste slag -->
+  <symbol id="i-trom" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="11" cy="11" rx="8" ry="2.8"/>
+    <path d="M3 11v6.2c0 1.6 3.6 2.8 8 2.8s8-1.2 8-2.8V11"/>
+    <path d="M7 13.6v5.6M15 13.6v5.6"/>
+    <path d="M13 9.6 21.4 3"/>
+  </symbol>
+
+  <!-- locatiespeld -->
+  <symbol id="i-speld" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 21.5s-6.8-6.1-6.8-11.6a6.8 6.8 0 0 1 13.6 0c0 5.5-6.8 11.6-6.8 11.6z"/>
+    <circle cx="12" cy="9.8" r="2.4"/>
+  </symbol>
+
+  <!-- groot en klein figuur: elke leeftijd -->
+  <symbol id="i-leeftijd" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="8.5" cy="5" r="2.4"/>
+    <path d="M4 21v-5.2a4.5 4.5 0 0 1 9 0V21"/>
+    <circle cx="17.5" cy="10.5" r="1.9"/>
+    <path d="M14.6 21v-3.4a2.9 2.9 0 0 1 5.8 0V21"/>
+  </symbol>
+
+  <!-- inslag: de spikes uit het logo, voor opsommingen -->
+  <symbol id="i-inslag" viewBox="0 0 24 24" fill="currentColor">
+    <polygon points="13.2,3 15.4,10 11.7,9.6"/>
+    <polygon points="21,7.6 15.6,12.6 14.2,9.6"/>
+    <polygon points="20.6,16.4 14.4,14.2 16.6,12"/>
+    <polygon points="3,16.4 8.6,11.4 10,14.4"/>
+    <polygon points="10.8,21 8.6,14 12.3,14.4"/>
+    <circle cx="12.2" cy="12" r="2"/>
+  </symbol>
+
+  <symbol id="i-trofee" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 3.5h8v6a4 4 0 0 1-8 0z"/>
+    <path d="M8 5.5H4.5a3.5 3.5 0 0 0 3.8 4M16 5.5h3.5a3.5 3.5 0 0 1-3.8 4"/>
+    <path d="M12 13.5V17M8 21h8l-1-4H9z"/>
+  </symbol>
+
+  <!-- diploma met lint: examens -->
+  <symbol id="i-diploma" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 20H5a1.5 1.5 0 0 1-1.5-1.5v-13A1.5 1.5 0 0 1 5 4h14a1.5 1.5 0 0 1 1.5 1.5V11"/>
+    <path d="M7.5 8.5h9M7.5 12h5"/>
+    <circle cx="18" cy="15" r="2.6"/>
+    <path d="M16.6 17.2 16 21.5l2-1 2 1-.6-4.3"/>
+  </symbol>
+
+  <!-- muzieknoot -->
+  <symbol id="i-noot" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="7.5" cy="17.5" r="3"/><circle cx="17.5" cy="15.5" r="3"/>
+    <path d="M10.5 17.5V5l10-2v12.5"/>
+  </symbol>
+
+  <!-- groep mensen: workshops -->
+  <symbol id="i-groep" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="7" r="2.8"/>
+    <path d="M6.5 20v-1.8a5.5 5.5 0 0 1 11 0V20"/>
+    <circle cx="4.8" cy="9.4" r="2"/><circle cx="19.2" cy="9.4" r="2"/>
+    <path d="M1.8 18v-1a3.6 3.6 0 0 1 3.4-3.6M22.2 18v-1a3.6 3.6 0 0 0-3.4-3.6"/>
+  </symbol>
+
+  <!-- hoorn: muziekverenigingen -->
+  <symbol id="i-hoorn" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 10.5h6l8.5-5v13L9 13.5H3z"/>
+    <path d="M17.5 5.5c2.4 1.2 3.5 3.6 3.5 6.5s-1.1 5.3-3.5 6.5"/>
+    <path d="M6 13.5v4.5"/>
+  </symbol>
+
+  <symbol id="i-klok" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.2 2"/>
+  </symbol>
+
+  <symbol id="i-kalender" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3.5" y="5" width="17" height="15.5" rx="1.5"/>
+    <path d="M3.5 10h17M8 3v4M16 3v4"/>
+  </symbol>
+
+  <symbol id="i-euro" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 6.2A7 7 0 1 0 18 17.8"/><path d="M4 10h9M4 14h9"/>
+  </symbol>
+
+  <symbol id="i-pijl" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 12h15M13.5 6l6 6-6 6"/>
+  </symbol>
+  <symbol id="i-pijl-op" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 20V5M6 10.5l6-6 6 6"/>
+  </symbol>
+  <symbol id="i-pijl-links" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 12H5M10.5 6l-6 6 6 6"/>
+  </symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m6 9 6 6 6-6"/>
+  </symbol>
+
+  <symbol id="i-telefoon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 16.6v3a2 2 0 0 1-2.2 2 19.6 19.6 0 0 1-8.6-3 19.3 19.3 0 0 1-6-6A19.6 19.6 0 0 1 1.4 4.2 2 2 0 0 1 3.4 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L7.4 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/>
+  </symbol>
+  <symbol id="i-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2.5" y="4.5" width="19" height="15" rx="1.5"/><path d="m3 6 9 7 9-7"/>
+  </symbol>
+  <symbol id="i-route" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="6" cy="19" r="2.5"/><circle cx="18" cy="5" r="2.5"/>
+    <path d="M8.5 19H16a3.5 3.5 0 0 0 0-7H8a3.5 3.5 0 0 1 0-7h7.5"/>
+  </symbol>
+
+  <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+    <path d="M3 7h18M3 12h18M3 17h12"/>
+  </symbol>
+  <symbol id="i-sluit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+    <path d="M6 6l12 12M18 6 6 18"/>
+  </symbol>
+
+  <symbol id="i-facebook" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M13.5 22v-8h2.7l.4-3.2h-3.1V8.7c0-.9.3-1.6 1.6-1.6h1.7V4.2c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.4H7.4V14h2.7v8z"/>
+  </symbol>
+  <symbol id="i-instagram" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.4"/><circle cx="17.3" cy="6.7" r="1.2" fill="currentColor" stroke="none"/>
+  </symbol>
+  <symbol id="i-youtube" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M22 8.2s-.2-1.5-.8-2.1c-.8-.8-1.7-.8-2.1-.9C16.2 5 12 5 12 5s-4.2 0-7.1.2c-.4.1-1.3.1-2.1.9C2.2 6.7 2 8.2 2 8.2S1.8 10 1.8 11.8v1.6C1.8 15.2 2 17 2 17s.2 1.5.8 2.1c.8.8 1.8.8 2.3.9 1.7.2 6.9.2 6.9.2s4.2 0 7.1-.2c.4-.1 1.3-.1 2.1-.9.6-.6.8-2.1.8-2.1s.2-1.8.2-3.6v-1.6C22.2 10 22 8.2 22 8.2zM9.8 14.9V9.4l5.5 2.8z"/>
+  </symbol>
+</svg>
